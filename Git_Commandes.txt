@@ -1,0 +1,18 @@
+1- Installer Git sur Windows
+********************
+
+2- Configuration de git sur la machine:
+
+Exécutez ces 2 commandes sur git bash:
+
+git config --global user.name "fournir nom"  (entrée)
+git config --global user.email "fournir email"
+
+***************************************************************
+
+Partage de contenu:
+
+1- Convertir un dossier en dépôt GIT
+ * Ouvrir Git Bash sur le dossier et exécuter la commande git init ( un dossier caché .git est crée)
+
+2- La commande la plus importante c'est : git status (à exécuter avant de faire quoi que ce soit)
