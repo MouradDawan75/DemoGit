@@ -15,4 +15,10 @@ Partage de contenu:
 1- Convertir un dossier en dépôt GIT
  * Ouvrir Git Bash sur le dossier et exécuter la commande git init ( un dossier caché .git est crée)
 
-2- La commande la plus importante c'est : git status (à exécuter avant de faire quoi que ce soit)
+2- La commande la plus importante c'est : git status (à exécuter avant de faire quoi que ce soit) permet de véfrifier le status d'un dépôt
+
+- Choisir les fichiers à tracer via git: git add nom_fichier (pour faire suivre tous les fichier git add .)
+
+3- git commit -m "décrire les modifs" ---- permet de faire des sauvegardes en local
+
+4- 
