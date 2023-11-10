@@ -21,4 +21,17 @@ Partage de contenu:
 
 3- git commit -m "décrire les modifs" ---- permet de faire des sauvegardes en local
 
-4- 
+4- Pusher le dépôt local vers GitHub:
+* connecter le local à un dépôt distant: créer un répo distant - copier le lien et exécuter la commande:
+ git  remote add origin htt:/*****************
+
+*********************************************************************
+
+Important: ne jamais travailler sur la brache master - elle est censée contenir des version fonctionnele de l'application.
+On travaille sur des copies (branches)
+
+Pour créer une brahce:
+git brach: afficher ttees les braches
+
+git branch nom_branche
+git checkout nom_brach
